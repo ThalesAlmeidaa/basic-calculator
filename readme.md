@@ -3,10 +3,11 @@
 Este é um projeto de **Calculadora Simples** desenvolvido como parte da minha prática com **JavaScript** e **CSS GRID**, além de aplicar conhecimentos de **HTML** e **CSS** para estruturar e estilizar o layout da aplicação.
 
 ## 💡 Objetivo
-O principal objetivo deste projeto foi exercitar conceitos fundamentais de **JavaScript**, como:
+O principal objetivo deste projeto foi exercitar conceitos fundamentais de **JavaScript** e **CSS**, como:
 - Manipulação do DOM
 - Funções e eventos
 - Operações matemáticas básicas
+- CSS GRID
 
 ## 🛠 Tecnologias utilizadas
 - **HTML5** – Estrutura do projeto
