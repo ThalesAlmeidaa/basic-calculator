@@ -1,6 +1,6 @@
 # 🧮 Calculadora Simples
 
-Este é um projeto de **Calculadora Simples** desenvolvido como parte da minha prática com **JavaScript**, além de aplicar conhecimentos de **HTML** e **CSS** para estruturar e estilizar o layout da aplicação.
+Este é um projeto de **Calculadora Simples** desenvolvido como parte da minha prática com **JavaScript** e **CSS GRID**, além de aplicar conhecimentos de **HTML** e **CSS** para estruturar e estilizar o layout da aplicação.
 
 ## 💡 Objetivo
 O principal objetivo deste projeto foi exercitar conceitos fundamentais de **JavaScript**, como:
